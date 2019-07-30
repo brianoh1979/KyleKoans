@@ -33,8 +33,4 @@ workflows:
             - test-production
           filters:
             branches:
-<<<<<<< HEAD
-              only: Production #Should run on new branch.
-=======
-              only: Production #Should run on new branch.
->>>>>>> 888dc356355e86dc7ee3e49c6d67281a08baca5c
+              only: Production #Should run on new branch....
